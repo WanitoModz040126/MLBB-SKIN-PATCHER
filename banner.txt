@@ -1,5 +1,5 @@
 banner1 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/IMG_20260502_041134_296.jpg?raw=true
-banner2 : 
+banner2 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/FB_IMG_1777666583234.jpg
 banner3 : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYDESWjAgiSJLspO6X9dgDe1wHEVxroaTXI9F3iKVQ1DjEu-4FMejMMFGu&s=10
 banner4 : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4axrX49QLcRGERSbYzhxL8sNW8DL8w5BabpDeut5YulvKYvCyzp_OpQI&s=10
 banner5 : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5sljZ_hyPCTfwEBAPJ7ZB71xqiUuLbYg3xrBDl9gSA&s=10
