@@ -23,21 +23,21 @@ https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero984-portrait.pn
 https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero985-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123916 : https://static.wikia.nocookie.net/mobile-legends/images/2/25/S36_Skin_Tag.png/revision/latest/scale-to-width-down/60?cb=20250308103142
 https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142831 : 
 https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero902-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170143 : 
-https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170144 : 
-https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero904-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170145 : 
-https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146 : 
-https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero906-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170147 : 
-https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125834 : 
-https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero908-portrait.png/revision/latest/scale-to-width-down/150?cb=20240202092913 : 
-https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero909-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619174651 : 
-https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902 : 
- : 
- : 
- : 
- : 
- : 
- : 
- : 
+https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170144 : https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230
+https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero904-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170145 : https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603
+https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146 : https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857
+https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero906-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170147 : https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230
+https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125834 : https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064230
+https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero908-portrait.png/revision/latest/scale-to-width-down/150?cb=20240202092913 : https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103149
+https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero909-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619174651 : https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20210414064523
+https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902 : https://static.wikia.nocookie.net/mobile-legends/images/6/62/Mystic_Meow_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250531030406
+https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142947 : 
+https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest/scale-to-width-down/150?cb=20240707063128 : 
+https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170238 : 
+https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239 : 
+https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237 : 
+https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero957-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145027 : 
+https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030 : 
 https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/20260502_044328.png : 
  : 
  : 
